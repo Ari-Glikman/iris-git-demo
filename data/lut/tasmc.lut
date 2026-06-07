@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<lookupTable>
+<entry table="tasmc" key="abc">123</entry>
+</lookupTable>
